@@ -1,3 +1,3 @@
 const routes = {
-    snipper : require('./snipper'),
+    snipper : require('./snippet'),
 }
